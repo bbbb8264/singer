@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>singer.qml</file>
+        <file>SongSelect.qml</file>
+        <file>TypeSelect.qml</file>
+        <file>game.js</file>
+        <file>circle.ttc</file>
+        <file>image/logo.png</file>
+        <file>image/songbutton.png</file>
+        <file>image/start-button.png</file>
+        <file>image/typebutton.png</file>
+    </qresource>
+</RCC>
